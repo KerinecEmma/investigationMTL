@@ -1,0 +1,86 @@
+Epoch 80
+
+nb true 295
+nb false 221
+
+All features
+Accuracy 0.577519790889 0.0119436369421
+Without test data
+Accuracy 0.563240291262 0.0138073696044
+Only curve data
+Accuracy 0.587301904406 0.0108630977519
+Without curve data
+Accuracy 0.531452389843 0.0126638058595
+Without ratio data
+Accuracy 0.56769137416 0.0142395581282
+
+
+Coeffs [ 0.5812894   0.13357554  0.07010754 -0.16861553  0.00700396  0.03424741
+ -0.07212928  0.16694202  0.63383228 -0.21371595 -0.31266798 -0.01478766
+ -0.02198954 -0.05276659 -0.10755774  0.10158815  0.64264254 -0.46810975
+  0.34216443  0.23650082  0.04435097  0.04334128 -0.03391501  0.2609682
+ -0.49195115 -0.87521232 -0.93265808 -0.07823391  0.06943357  0.8128806 ]
+
+
+JSD test vs training set cat. 1&-0.932658079838\\
+JSD test vs training set cat. 0&-0.875212318163\\
+OOV rate&0.812880596679\\
+JSD training set cat. 0 vs cat. 1 ratio&0.642642536333\\
+JSD training set cat. 0 vs cat. 1 aux&0.63383228167\\
+JSD training set cat. 0 vs cat. 1 main&0.581289402889\\
+nb words test set&-0.491951146995\\
+nb words training set ratio&-0.468109746488\\
+Curve param a ratio&0.342164430333\\
+Curve param a aux&-0.312667979332\\
+Curve gradient 75\% ratio&0.260968196028\\
+Curve param c ratio&0.236500824755\\
+nb words training set aux&-0.213715948348\\
+Curve param c main&-0.168615529937\\
+Curve gradient 75\% main&0.166942022126\\
+nb words training set main&0.133575544371\\
+Curve gradient 50\% aux&-0.107557735515\\
+Curve gradient 75\% aux&0.101588146706\\
+JSD training set cat. 0 main vs cat. 0 aux&-0.0782339062106\\
+Curve gradient 50\% main&-0.0721292798841\\
+Curve param a main&0.0701075377648\\
+JSD training set cat. 1 main vs cat. 1 aux&0.0694335688272\\
+Curve gradient 25\% aux&-0.0527665911671\\
+Curve gradient 10\% ratio&0.0443509737635\\
+Curve gradient 25\% ratio&0.0433412823379\\
+Curve gradient 25\% main&0.0342474050809\\
+Curve gradient 50\% ratio&-0.0339150097167\\
+Curve gradient 10\% aux&-0.0219895353899\\
+Curve param c aux&-0.0147876565261\\
+Curve gradient 10\% main&0.00700396404135\\
+
+
+
+Coeffs for non ratio parameters[ 1.0838296  -0.20422875 -0.18675528 -0.04913537 -0.00268016  0.00353058
+ -0.05054264  0.15046136 -0.01653634  0.01851784 -0.04171926 -0.08400321
+ -0.0041855  -0.05397927 -0.11528291  0.07246726 -0.45791254 -0.83761342
+ -0.87160997 -0.03379199  0.04137929  0.74274406]
+
+
+JSD training set cat. 0 vs cat. 1 main&1.08382960463\\
+JSD test vs training set cat. 1&0.0413792949125\\
+JSD test vs training set cat. 0&-0.0337919889217\\
+OOV rate&0.0185178419725\\
+nb words test set&-0.016536336149\\
+nb words training set main&-0.204228748018\\
+Curve param a main&-0.186755276093\\
+Curve gradient 75\% main&0.150461357751\\
+Curve gradient 50\% aux&-0.115282910968\\
+Curve param c aux&-0.0840032065671\\
+Curve gradient 75\% aux&0.0724672565301\\
+Curve gradient 25\% aux&-0.0539792720961\\
+Curve gradient 50\% main&-0.0505426409448\\
+Curve param c main&-0.0491353679126\\
+Curve param a aux&-0.0417192565857\\
+JSD training set cat. 1 main vs cat. 1 aux&0.150461357751\\
+JSD training set cat. 0 main vs cat. 0 aux&-0.115282910968\\
+nb words training set aux&0.0185178419725\\
+JSD training set cat. 0 vs cat. 1 aux&-0.016536336149\\
+Curve gradient 10\% aux&-0.00418550428957\\
+Curve gradient 25\% main&0.00353058375092\\
+Curve gradient 10\% main&-0.00268015699724\\
+
