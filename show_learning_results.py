@@ -84,7 +84,7 @@ for exp in range(1, 3):
 				for i in range(len(list_exp)):
 					f1 = get_f1S(name(exp, nb_train, list_exp[i][0], testi, False), it)
 					f1s += [f1]
-					F1 = get_f1M(name(exp, nb_train, list_exp[i], testi, False), it)
+					F1 = get_f1M(name(exp, nb_train, list_exp[i], testi, False) + "split", it)
 					F1s += [F1]
 					if F1 > f1:
 						impr += 1
@@ -109,7 +109,7 @@ for exp in range(1, 3):
 			for i in range(len(list_exp)):
 				f1 = get_f1S(name(exp, nb_train, list_exp[i][0], 0, False),  it)
 				f1s += [f1]
-				F1 = get_f1M(name(exp, nb_train, list_exp[i], 0, False), it)
+				F1 = get_f1M(name(exp, nb_train, list_exp[i], 0, False) + "split", it)
 				F1s += [F1]
 				if F1 > f1:
 					impr += 1
@@ -135,7 +135,7 @@ for exp in range(1, 3):
 				for i, task in enumerate(list_tasks):	
 					score_s[i][j] = get_f1S(name(exp, nb_train, task, 0, False),  j * step)
 				for i, ex in enumerate(list_exp):
-					score_m[i][j] = get_f1M(name(exp, nb_train, ex, 0, False), j * step)
+					score_m[i][j] = get_f1M(name(exp, nb_train, ex, 0, False) + "split", j * step)
 
 			mean_score_s += [score_s]
 			mean_score_m += [score_m]
@@ -161,7 +161,7 @@ for exp in range(1, 3):
 			for i, task in enumerate(list_tasks):	
 				score_s[i][j] = get_f1S(name(exp, nb_train, task, 0, False),  j * step)
 			for i, ex in enumerate(list_exp):
-				score_m[i][j] = get_f1M(name(exp, nb_train, ex, 0, False), j * step)
+				score_m[i][j] = get_f1M(name(exp, nb_train, ex, 0, False) + "split", j * step)
 		evol_simple = np.mean(score_s, 0)
 		evol_multi = np.mean(score_m, 0)
 

@@ -4,12 +4,6 @@ Global mean: 0.00136619206773
 
 nb improvment: 46 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 386
-
 mean simple 0.52732036713
 mean multi 0.526925196627
 
@@ -19,12 +13,6 @@ mean multi 0.526925196627
 Global mean: 0.000975501599709
 
 nb improvment: 50 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 379
 
 mean simple 0.536274031579
 mean multi 0.533600601103
@@ -36,12 +24,6 @@ Global mean: 0.00416195417055
 
 nb improvment: 64 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 357
-
 mean simple 0.540491645774
 mean multi 0.53734360484
 
@@ -51,12 +33,6 @@ mean multi 0.53734360484
 Global mean: -0.0170016455892
 
 nb improvment: 68 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 318
 
 mean simple 0.571376467911
 mean multi 0.553044515614
@@ -68,12 +44,6 @@ Global mean: -0.0261250009034
 
 nb improvment: 79 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 221
-
 mean simple 0.60525409338
 mean multi 0.579336391175
 
@@ -83,12 +53,6 @@ mean multi 0.579336391175
 Global mean: -0.0604678459353
 
 nb improvment: 96 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 107
 
 mean simple 0.673732381207
 mean multi 0.625723023915
@@ -100,12 +64,6 @@ Global mean: -0.0733743557053
 
 nb improvment: 97 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 23
-
 mean simple 0.767488644138
 mean multi 0.70953981638
 
@@ -115,12 +73,6 @@ mean multi 0.70953981638
 Global mean: -0.0624366072251
 
 nb improvment: 150 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 4
 
 mean simple 0.835761207947
 mean multi 0.785572261719
@@ -132,12 +84,6 @@ Global mean: -0.033911611514
 
 nb improvment: 180 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 5
-
 mean simple 0.871846284745
 mean multi 0.844151906413
 
@@ -147,12 +93,6 @@ mean multi 0.844151906413
 Global mean: -0.0104850512357
 
 nb improvment: 246 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 7
 
 mean simple 0.883934985613
 mean multi 0.875114524838
@@ -164,12 +104,6 @@ Global mean: -0.00205104328912
 
 nb improvment: 262 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 15
-
 mean simple 0.888868386778
 mean multi 0.887203422548
 
@@ -179,12 +113,6 @@ mean multi 0.887203422548
 Global mean: 0.00242761944624
 
 nb improvment: 300 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 11
 
 mean simple 0.890647137483
 mean multi 0.892745460195
@@ -196,12 +124,6 @@ Global mean: 0.00343267785777
 
 nb improvment: 303 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 12
-
 mean simple 0.892018598389
 mean multi 0.894964168755
 
@@ -211,12 +133,6 @@ mean multi 0.894964168755
 Global mean: 0.00308716315791
 
 nb improvment: 292 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 15
 
 mean simple 0.893037801761
 mean multi 0.895684286536
@@ -228,12 +144,6 @@ Global mean: 0.00446208120429
 
 nb improvment: 309 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 9
-
 mean simple 0.892808091932
 mean multi 0.896675693118
 
@@ -243,12 +153,6 @@ mean multi 0.896675693118
 Global mean: 0.00409724705034
 
 nb improvment: 295 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 11
 
 mean simple 0.893396120328
 mean multi 0.896901271121
@@ -260,12 +164,6 @@ Global mean: 0.0042228990926
 
 nb improvment: 314 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 12
-
 mean simple 0.893519551098
 mean multi 0.897192154586
 
@@ -276,12 +174,6 @@ Global mean: 0.0032928065869
 
 nb improvment: 294 compare to 516
 
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 14
-
 mean simple 0.894129459437
 mean multi 0.896982827933
 
@@ -291,12 +183,6 @@ mean multi 0.896982827933
 Global mean: 0.00535502046662
 
 nb improvment: 323 compare to 516
-
-nb f1 simple = 0: 0
-
-nb f1 multi = 0: 0
-
-nb f1 simple = f1 multi: 14
 
 mean simple 0.893067073598
 mean multi 0.897691971453

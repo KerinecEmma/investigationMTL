@@ -1,1 +1,190 @@
 5
+
+Global mean: 0.00529042205621
+
+nb improvment: 9.8 compare to 52
+
+mean simple 0.522179175391
+mean multi 0.526398820838
+
+
+10
+
+Global mean: 0.00564150253704
+
+nb improvment: 11.0 compare to 52
+
+mean simple 0.525373686385
+mean multi 0.527992248231
+
+
+15
+
+Global mean: -0.00124411573329
+
+nb improvment: 10.8 compare to 52
+
+mean simple 0.535281328319
+mean multi 0.531971312741
+
+
+20
+
+Global mean: -0.0270299512205
+
+nb improvment: 8.8 compare to 52
+
+mean simple 0.562242089404
+mean multi 0.541777403607
+
+
+25
+
+Global mean: 0.00629991330687
+
+nb improvment: 11.2 compare to 52
+
+mean simple 0.570013368821
+mean multi 0.557308802473
+
+
+30
+
+Global mean: -0.0336937363951
+
+nb improvment: 7.6 compare to 52
+
+mean simple 0.602454958029
+mean multi 0.572437229557
+
+
+35
+
+Global mean: -0.0576078208195
+
+nb improvment: 7.0 compare to 52
+
+mean simple 0.668183045902
+mean multi 0.618426025518
+
+
+40
+
+Global mean: -0.0753839825586
+
+nb improvment: 9.4 compare to 52
+
+mean simple 0.742459873453
+mean multi 0.674071163751
+
+
+45
+
+Global mean: -0.0615750061282
+
+nb improvment: 14.4 compare to 52
+
+mean simple 0.789063874712
+mean multi 0.740810642465
+
+
+50
+
+Global mean: -0.0258276720918
+
+nb improvment: 18.0 compare to 52
+
+mean simple 0.816061598909
+mean multi 0.797565710378
+
+
+55
+
+Global mean: -0.00977196588252
+
+nb improvment: 22.6 compare to 52
+
+mean simple 0.830626118586
+mean multi 0.822664253088
+
+
+60
+
+Global mean: 0.00601166164455
+
+nb improvment: 30.2 compare to 52
+
+mean simple 0.830747238996
+mean multi 0.83527938349
+
+
+65
+
+Global mean: 0.00625026524381
+
+nb improvment: 31.6 compare to 52
+
+mean simple 0.83622906336
+mean multi 0.840289888455
+
+
+70
+
+Global mean: 0.0139170132409
+
+nb improvment: 35.8 compare to 52
+
+mean simple 0.8314927066
+mean multi 0.842995646185
+
+
+75
+
+Global mean: 0.00969818769571
+
+nb improvment: 33.6 compare to 52
+
+mean simple 0.835793697232
+mean multi 0.843254030956
+
+
+80
+
+Global mean: 0.0117539279935
+
+nb improvment: 37.4 compare to 52
+
+mean simple 0.834483114696
+mean multi 0.842953314639
+
+
+85
+
+Global mean: 0.0108877573721
+
+nb improvment: 35.4 compare to 52
+
+mean simple 0.835516935593
+mean multi 0.844130780143
+
+
+90
+
+Global mean: 0.010336836775
+
+nb improvment: 35.0 compare to 52
+
+mean simple 0.835718912851
+mean multi 0.844395802073
+
+
+95
+
+Global mean: 0.0105928644462
+
+nb improvment: 35.6 compare to 52
+
+mean simple 0.835794842701
+mean multi 0.843886397591
+
+

@@ -4,9 +4,9 @@ from utils import *
 #predicting gains/losses for MTL model compared to single task ones using some features
 
 nb_train = 200 #nb text for the training
-exp = 2 #exp 1 or 2
+exp = 1 #exp 1 or 2
 ep = 80 #epoch used for previsions
-number_test = 0
+number_test = 4
 
 tasks, list_ind, list_exp = creation(exp)
 
